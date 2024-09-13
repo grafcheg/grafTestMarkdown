@@ -16,7 +16,17 @@ Markdown Test
 
 \[Название ссылки\]\(адрес ссылки\)
 
-### Сыылки
+## На что обратить внимание
+*Branch
+
+*Push
+
+*Pull/Fetch
+
+*Merge
+
+
+### Ссылки
 [Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
